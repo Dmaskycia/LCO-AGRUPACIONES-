@@ -78,7 +78,7 @@
 <body>
   <div class="container">
     <h1>CCOO FSC REGIÓN DE MURCIA</h1>
-    <h2>C2 Calculadora Nota Bolsa LCO</h2>
+    <h2>Agrupación Profesional Calculadora Nota Bolsa LCO</h2>
     <p class="info">‼️ Si tienes una nota mejor en alguna de las 3 convocatorias anteriores, se tomará la nota más alta. ‼️</p>
     
     <label for="aciertos1">Primer Examen - Aciertos:</label>
